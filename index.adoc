@@ -1,0 +1,17 @@
+= Kerisquared
+:imagesdir: images
+:data-uri:
+
+[.left.text-center]
+image::PixelBoard.png[PixelBoard]
+
+Pushing Pixels and Twiddling Bits.
+
+== Where
+
+Portland, Oregon.
+
+== What
+
+Embedded Systems.  Computer Vision.  Image Processing.
+
